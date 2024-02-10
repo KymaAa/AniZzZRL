@@ -4,9 +4,9 @@ const searchResult = document.getElementById('search-result');
 const showMoreBtn = document.getElementById('show-more-btn');
 
 const searchData = [
-  { id: 'Facebook', link: 'https://www.facebook.com/profile.php?id=100087999871043&mibextid=ZbWKwL', imgSrc: '/phot/—Pngtree—facebook social media icon_8704814.png' },
-  { id: 'Youtube', link: 'https://youtube.com/@LupusreginaBeta-il3kq?si=RpwWra1_7tQWQfqK', imgSrc: '/phot/20240108_095943.jpg' },
-  { id: 'Group' , link: 'https://www.facebook.com/groups/3789810921256148/?ref=share', imgSrc: '/phot/PngItem_1052269.png'},
+  { id: 'Facebook', link: 'https://www.facebook.com/profile.php?id=100087999871043&mibextid=ZbWKwL', imgSrc: '/—Pngtree—facebook social media icon_8704814.png' },
+  { id: 'Youtube', link: 'https://youtube.com/@LupusreginaBeta-il3kq?si=RpwWra1_7tQWQfqK', imgSrc: '/20240108_095943.jpg' },
+  { id: 'Group' , link: 'https://www.facebook.com/groups/3789810921256148/?ref=share', imgSrc: '/PngItem_1052269.png'},
   
   
   
